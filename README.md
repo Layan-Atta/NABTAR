@@ -37,9 +37,12 @@ NABTAR_APPV2/
 
 ---
 ## 📸 QR for more details
-
 Here's a quick way to explore NABTAR — just scan any of the QR codes below:
-
+![Nabtar QR](Image.jpeg)
+## 🏆 Achievements
+🎓 Graduation Project
+🥉 3rd Place Winner at College Final Project Exhibition
+👩‍💻 Built by a passionate student team from King Khalid University
 
 
 ## 🚀 Getting Started
@@ -54,3 +57,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## 📬 Contact
+Feel free to reach out via my LinkedIn
+[LinkedIn](https://www.linkedin.com/in/layan-atta)
+

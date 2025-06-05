@@ -41,7 +41,9 @@ Here's a quick way to explore NABTAR — just scan any of the QR codes below:
 ![Nabtar QR](Image.jpeg)
 ## 🏆 Achievements
 🎓 Graduation Project
+
 🥉 3rd Place Winner at College Final Project Exhibition
+
 👩‍💻 Built by a passionate student team from King Khalid University
 
 
@@ -60,5 +62,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 📬 Contact
 Feel free to reach out via my LinkedIn
-[LinkedIn](https://www.linkedin.com/in/layan-atta)
+[Layan Atta](https://www.linkedin.com/in/layan-atta)
 

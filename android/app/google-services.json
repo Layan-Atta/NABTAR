@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722765495440",
+    "project_id": "nabtar-84e60",
+    "storage_bucket": "nabtar-84e60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722765495440:android:da37387d88b25ba1c5ac15",
+        "android_client_info": {
+          "package_name": "com.example.nabtar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDitR-y4Nj4JH-KpM6cvGxPjnQkX_he2WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

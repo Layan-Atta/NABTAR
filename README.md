@@ -1,8 +1,48 @@
-# nabtar_app
+# 🌱 NABTAR - Smart Agriculture Assistant
 
-A new Flutter project.
+**Nabtar** is an intelligent agriculture assistant that helps farmers and agricultural decision-makers analyze soil type, recommend suitable crops, and get weather warnings — all through a mobile app powered by AI.
 
-## Getting Started
+---
+
+## 📱 Features
+
+- 🧠 **Soil Type Detection** from image using CNN model
+- 🌾 **Crop Recommendation** based on soil and location
+- ☁️ **Live Weather Alerts** (humidity & rainfall)
+- 📍 Location-aware suggestions (e.g., Abha region)
+- 🚁 Drone-based soil scanning (future extension)
+
+---
+
+## 🧠 AI Models Used
+
+| Task                  | Model          | Format    |
+|-----------------------|----------------|-----------|
+| Soil Classification   | CNN (MobileNetV2) | TFLite |
+| Crop Recommendation   | Random Forest     | Python  |
+| Weather Data Integration | OpenWeatherMap API | API |
+
+---
+
+## 📂 Project Structure
+NABTAR_APPV2/
+├── android/
+├── assets/
+├── FinalModels/
+├── lib/ # Flutter source code
+├── test/
+├── pubspec.yaml
+└── README.md
+
+
+---
+## 📸 QR for more details
+
+Here's a quick way to explore NABTAR — just scan any of the QR codes below:
+
+
+
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 

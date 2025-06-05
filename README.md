@@ -38,7 +38,12 @@ NABTAR_APPV2/
 ---
 ## 📸 QR for more details
 Here's a quick way to explore NABTAR — just scan any of the QR codes below:
+
+
 ![Nabtar QR](Image.jpeg)
+
+
+
 ## 🏆 Achievements
 🎓 Graduation Project
 

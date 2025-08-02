@@ -34,7 +34,11 @@ NABTAR_APPV2/
 ├── pubspec.yaml
 └── README.md
 
-
+---
+## 👥 Team Members
+- **[Layan Atta](https://github.com/Layan-Atta)** – Data Scientist, AI Specialist & UI/UX Designer
+- **[Shaimaa Faris](https://github.com/PenTesterSH)** – Cybersecurity Specialist & Programmer  
+- **[Renad Al-Amri](https://github.com/RenadData)** – Data Scientist, Programmer & Cloud Developer  
 ---
 ## 📸 QR for more details
 Here's a quick way to explore NABTAR — just scan any of the QR codes below:
@@ -43,14 +47,7 @@ Here's a quick way to explore NABTAR — just scan any of the QR codes below:
 ![Nabtar QR](Image.jpeg)
 
 ---
-## 👥 Team Members
-- **[Layan Atta](https://github.com/Layan-Atta)** – Data Scientist, AI Specialist & UI/UX Designer
-- **[Shaimaa Faris](https://github.com/PenTesterSH)** – Cybersecurity Specialist & Programmer  
-- **[Renad Al-Amri](https://github.com/RenadData)** – Data Scientist, Programmer & Cloud Developer  
-
----
 ## 🏆 Achievements
-🎓 Graduation Project
 
 🥉 3rd Place Winner at College Final Project Exhibition
 

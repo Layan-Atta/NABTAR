@@ -48,6 +48,7 @@ Here's a quick way to explore NABTAR — just scan any of the QR codes below:
 
 ---
 ## 🏆 Achievements
+🥇 first Place Winner at Aseer Tabtaker Hackathon 
 
 🥉 3rd Place Winner at College Final Project Exhibition
 
